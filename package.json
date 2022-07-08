@@ -1,0 +1,25 @@
+{
+  "name": "hardhat",
+  "version": "1.0.0",
+  "description": "hardhat",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hardhat"
+  },
+  "keywords": [
+    "hardhat"
+  ],
+  "author": "psh823",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.8.0"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.3.4"
+  }
+}
